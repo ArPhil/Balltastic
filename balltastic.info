@@ -1,0 +1,5 @@
+require("Storage").write("balltastic.info",{
+  "name":"Balltastic",
+  "src":"balltastic.app.js",
+  "icon":"balltastic.img"
+});
